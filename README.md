@@ -13,12 +13,6 @@ These days it's mostly FastAPI and Django backends, React when the frontend
 needs a hand, and a lot of fiddling with LLMs to make them actually useful.
 My favorite kind of system is the one that lets everyone sleep through the night.
 
-<details>
-<summary>🔭 on light theme? borrow the telescope</summary>
-<br>
-<img src="assets/sky-dark.svg" width="100%" alt="Constellation of the tech stack">
-</details>
-
 **what's in the sky tonight**
 
 Python, FastAPI, Django, PostgreSQL, Redis, Celery, React, Next.js, TypeScript,
