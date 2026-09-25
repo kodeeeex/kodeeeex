@@ -26,6 +26,6 @@ and very few 3 AM alerts.
 
 **off the clock**
 
-night walks around Lviv, good tea, and way too many playlists for focus.
+night walks around city, good tea, and way too many playlists for focus.
 
 <sub>say hi: [linkedin](https://linkedin.com/in/drahanbohdan) · [bohdandrahann@gmail.com](mailto:bohdandrahann@gmail.com)</sub>
